@@ -6,5 +6,5 @@ def most_frequent(string):
         else:
             d[key] += 1
     return d
-most_frequent.sort(reverse=True)
+    most_frequent.sort(reverse=True)
 print('List Descending Order: ',most_frequent )
